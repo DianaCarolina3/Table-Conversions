@@ -1,9 +1,5 @@
-let type = "onzas"
-let amount = 5
-let ounce = ""
-let kilograms = ""
-let Pounds = ""
-let gram = ""
+let type = "gramos"
+let amount = 36
 
 
 const toResultToPounds = () => {
@@ -33,9 +29,11 @@ const toResultToPounds = () => {
       toResultToPounds()
 
 
-          // toOunce()
-          // toKilograms()
-          // toPounds()
+
+// let ounce = ""
+// let kilograms = ""
+// let Pounds = ""
+// let gram = ""
 
           // const toOunce = () => {
           //   if (type === "gramos") {
@@ -58,3 +56,7 @@ const toResultToPounds = () => {
           //     console.log('Libras: ', pounds)
           //   }
           // }
+          
+          // toOunce()
+          // toKilograms()
+          // toPounds()
